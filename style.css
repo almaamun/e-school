@@ -1,0 +1,118 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    background:#f0fff0;
+    height: 576px;   
+}
+.container{
+    margin-bottom:80px;
+}
+#logo{
+    width: 198.07px;
+    height: 58px;
+    left: 212px;
+    top: 30px;
+    margin-right: 300px;
+}
+.navbar-nav{
+    margin-left: 200px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+   
+
+}
+.greenbtn{
+    border-radius: 40px;
+    
+}
+.bannerImage{
+    width: 554px;
+    height: 346px;
+    top: 57px;
+}
+.red-text{
+    color: red;
+    font-size: 20px;
+    
+}
+.green-text{
+    color: green;
+}
+.categories{
+    margin-top: 40px;
+
+   position: relative;
+
+}
+.cat {
+    width: 270px;
+    height: 270px;
+    background:#f0fff0;
+    border-radius: 10px;
+    padding: 0px;
+   
+    
+}
+#cat2{
+    width: 270px;
+    height: 270px;
+    background-color: #fff;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 40px;
+}
+.cat img{
+    width: 40%;
+    /* margin-top: 25%; */
+    margin: 0 auto;
+}
+.cat-info{
+    text-align: center;
+}
+.info{
+    padding-top: 15px;
+}
+.card{
+    border-radius: 18px;
+    box-shadow: rgb(172, 163, 163) 0px 10px 20px;
+}
+.card img{
+    padding:15px;
+}
+.cardFooter{
+    /* margin-top: 20px; */
+    color: gray;
+    font-size: 16px;
+}
+.cardFooter img{
+    width: 20%;
+}
+.testmonial{
+    margin-top: 60px;
+}
+.headline{
+    font-weight: bold;
+}
+.testmonial img{
+    width: 120px;
+    height: 120px;
+    margin-right: 80px;
+}
+.comment{
+    width: 580px;
+    height: 90px;
+}
+.banner-bottom{
+    color: white;
+    background: black;
+    padding: 30px;
+}
+.li{
+    text-decoration: none;    
+}
+.courseList{
+    color: white;
+}
+.c{
+    border: 1px solid white;
+}
